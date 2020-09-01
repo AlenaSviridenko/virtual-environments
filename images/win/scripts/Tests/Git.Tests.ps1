@@ -1,5 +1,5 @@
 Describe "Git" {
-    $gitTools = 'bash', 'awk', 'git', 'git-lfs'
+    $gitTools = 'bash', 'git', 'git-lfs'
     $gitTestCases = $gitTools | ForEach-Object {
         @{
             toolName = $_
