@@ -1,7 +1,7 @@
 # macOS 11.0 info
 - System Version: macOS 11.0.1 (20B29)
 - Kernel Version: Darwin 20.1.0
-- Image Version: 20201224.3
+- Image Version: 20201224.7
 
 ## Installed Software
 ### Language and Runtime
@@ -15,18 +15,18 @@
 - GNU Fortran (Homebrew GCC 10.2.0) 10.2.0  - available by `gfortran-10` alias
 - Bash 3.2.57(1)-release
 - Node v14.15.3
-- 0.37.2
+- NVM 0.37.2
 - NVM - Cached node versions: v6.17.1 v8.17.0 v10.23.0 v12.20.0 v13.14.0 v14.15.3
 - Python 2.7.18
 - Python 3.9.1
 - Ruby 2.7.2p137
 - .NET SDK 2.1.300 2.1.301 2.1.302 2.1.401 2.1.402 2.1.403 2.1.500 2.1.502 2.1.503 2.1.504 2.1.505 2.1.506 2.1.507 2.1.602 2.1.603 2.1.604 2.1.607 2.1.700 2.1.701 2.1.801 2.1.802 2.1.803 2.1.804 2.1.805 2.1.806 2.1.807 2.1.808 2.1.809 2.1.810 2.1.811 3.1.100 3.1.101 3.1.200 3.1.201 3.1.300 3.1.301 3.1.302 3.1.401 3.1.402 3.1.403 3.1.404 5.0.100 5.0.101
-- 1.15.6
+- Go 1.15.6
 - PHP 8.0.0
 - julia 1.5.3
 
 ### Package Management
-- Vcpkg 2020.11.12 (build from master <e34cdd5>)
+- Vcpkg 2020.11.12 (build from master \<e34cdd5>)
 - Pip 20.3.3 (python 2.7)
 - Pip 20.3.1 (python 3.9)
 - Pipx 0.15.6.0
@@ -37,7 +37,7 @@
 - NPM 6.14.9
 - Yarn 1.22.5
 - NuGet 5.6.0.6489
-- Mini conda 4.9.2
+- Miniconda 4.9.2
 - RubyGems 3.2.3
 - Composer 2.0.8
 
@@ -128,7 +128,7 @@
 - 1.15.6
 
 ### Rust Tools
-- 1.48.0
+- Rust 1.48.0
 - Rustup 1.23.1
 
 #### Packages
